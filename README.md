@@ -2,9 +2,10 @@
 **Twenty-One** is a typical blackjack game project I've worked on for first year college tasks, in which I added a personal sense of personality and thrill! I built upon this program using Visual Studio Code to accomodate the requirements my college expected of me.  
   
 ## 📦 FEATURES AND TECHNOLOGY
-### TECHNOLOGY
+### ╭・TECHNOLOGY
 **Twenty-One** was coded using Python 3.11 language using a command-line interface (CLI) to which it has features included but limited to:    
-### FEATURES
+  
+### ╭・FEATURES
 • Multiple human players competing simultaneously against one dealer;    
 • A betting system where players wager each round;  
 • A dealer following standard Blackjack rules;  
@@ -30,8 +31,13 @@ Using this, I was able to create the idea to add delays between responses to cre
 This way, I understood that finishing the school project was fine but not doing the best-est I could do would not improve my ability as a student. The funny thing is, now that I am documenting it, the more I realized that I am glad I am pursuing this field to learn more about my skillset that's been always varying since old days.  
   
 # 🛠️ DEEP-DIVE
-To understand more about this project, I provided flowcharts, class descriptions, method and its parameter descriptions and the problems I encountered and how I dealt with it.
+To understand more about this project, I provided flowcharts, class descriptions, method and its parameter descriptions and the problems I encountered and how I dealt with it.  
+  
 ## 🪡 FLOWCHART
+  
 ## 🧐 CLASS DESCRIPTIONS
+  
 ## 🔃 METHODS USED AND ITS PARAMETERS
+  
 ## ⛓️‍💥 PROBLEMS ENCOUNTERED + 👷‍♂️ THE MINDSET TO DEAL WITH IT
+  
