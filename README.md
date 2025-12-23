@@ -2,7 +2,9 @@
 **Twenty-One** is a typical blackjack game project I've worked on for first year college tasks, in which I added a personal sense of personality and thrill! I built upon this program using Visual Studio Code to accomodate the requirements my college expected of me.  
   
 ## 📦 FEATURES AND TECHNOLOGY
+### TECHNOLOGY
 **Twenty-One** was coded using Python 3.11 language using a command-line interface (CLI) to which it has features included but limited to:    
+### FEATURES
 • Multiple human players competing simultaneously against one dealer;    
 • A betting system where players wager each round;  
 • A dealer following standard Blackjack rules;  
