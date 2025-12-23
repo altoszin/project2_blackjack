@@ -40,4 +40,12 @@ To understand more about this project, I provided flowcharts, class descriptions
 ## 🔃 METHODS USED AND ITS PARAMETERS
   
 ## ⛓️‍💥 PROBLEMS ENCOUNTERED + 👷‍♂️ THE MINDSET TO DEAL WITH IT
+
+# 🗒️ INSTRUCTIONS
+## HOW TO RUN THIS PROJECT?
+
+## VIDEO
+
+## CREDITS
+### ╭・
   
