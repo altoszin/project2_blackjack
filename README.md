@@ -34,7 +34,14 @@ This way, I understood that finishing the school project was fine but not doing 
 To understand more about this project, I provided flowcharts, class descriptions, method and its parameter descriptions and the problems I encountered and how I dealt with it.  
   
 ## 🪡 FLOWCHART
-  
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/4641a236-1bad-4177-8491-8a3b66bae703" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ba6ee4e5-beb7-48d2-a886-0b25a0481486" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/b7951af0-fbbe-4a53-b7c7-e929669de9c4" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/3e1bd76b-206e-4c56-bb58-261b0b009848" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/bf82ae89-a7fc-4e77-ba12-4cfab95d1d53" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/cf9e8e9c-c43e-4ebe-ae5a-ac25cec607a5" />
+<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/0f0f291f-a262-46df-bd91-d3cadd99a914" />
+
 ## 🧐 CLASS DESCRIPTIONS
 ### Class Card:
 This class handles the string representation of each card object along with its respective card value attributes. It can differentiate face cards from value cards along with initializing a default value of 11 for Ace card.  
