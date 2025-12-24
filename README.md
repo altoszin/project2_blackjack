@@ -55,9 +55,9 @@ This class connects all 5 classes in order to control the flow of the game. It i
 -	This method is designed to determine the value of each Card object depending on the rank attribute.  
 ### •	Class Deck:  
 ✻ create_deck(self)  
--	This method creates the Card objects which is assigned to the Deck list attribute under Deck class. It runs multiple loops to assign each rank to four respective suits, creating 52 cards in total.  
+-	This method creates the Card objects which is assigned to the Deck list attribute under Deck class. It runs multiple loops to assign each rank to four respective suits, creating 52 cards in total.
 ✻ shuffle(self)  
--	This method uses the method: ‘shuffle’ under the random library to randomize the order of the Deck list attributes.  
+-	This method uses the method: ‘shuffle’ under the random library to randomize the order of the Deck list attributes.
 ✻ deal(self)  
 -	This method is expected to handle empty decks to create new decks and shuffle them. Otherwise, it is also expected to pop the top card on the Deck list attribute representing the ‘hitting’ or ‘drawing’ sequence.  
 ### •	Class Hand:  
