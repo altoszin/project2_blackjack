@@ -161,7 +161,7 @@ The biggest issue with the final prototype I made was that the computer response
 5. Enjoy the game.
   
 ## VIDEO
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J0quCoNM7DE?si=PvoUXCA25bANtCZX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## CREDITS
 ### ╭・[cute symbols for crds](https://docs.google.com/document/d/173Z3L5sbzuvLIa4CWRvOmx20Hy00zPYhfBxm0DVxBTA/edit?tab=t.0)
