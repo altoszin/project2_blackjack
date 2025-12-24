@@ -19,7 +19,6 @@ class Deck:
 
     def deal(self):
         if self._deck == []:
-            # deals with empty decks so it reshuffles every round
             print("(The deck is empty! The dealer quickly grabs a new one.)")
             self._deck = self.create_deck()
             self.shuffle()
