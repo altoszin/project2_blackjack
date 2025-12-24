@@ -8,9 +8,9 @@ class Card:
         if self._rank in ["J", "K", "Q"]:
             return 10
         elif self._rank == "A":
-            return 11  # what do i use as default value, 1 or 11. problem 1. My biggest problem is that I do not know how to play blackjack so default values are not a thing in my dictionary.
+            return 11
         else:
-            return int(self._rank)  # forgot to add int
+            return int(self._rank)
 
 
 # str
