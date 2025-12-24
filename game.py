@@ -61,7 +61,6 @@ class BlackjackGame:
 
     def setup_players(self):
         starting_bal = 100
-        # i forgot i needed to manually input num players
         print("\n̶̶̶̶ ̶«̶ ̶̶̶ ̶ ̶ ̶̶̶ ̶«̶  Player Setup ̶ »̶ ̶̶̶ ̶ ̶ ̶̶̶ ̶»̶ ̶̶̶ ̶ ̶ ")
         while True:
             try:
@@ -130,7 +129,7 @@ class BlackjackGame:
             nplayer._hand = Hand()
             time.sleep(1)
             print(f"\n✻ (A card was given to {nplayer._name})")
-            nplayer.hit(self._deck.deal())  # i forgot to put (fckkk)
+            nplayer.hit(self._deck.deal())
             time.sleep(1)
             print(f"\n✻ (A card was given to {nplayer._name})")
             nplayer.hit(self._deck.deal())
@@ -194,12 +193,10 @@ class BlackjackGame:
         for nplayer in self._players:
             print("")
             player_total = nplayer._hand.total()
-            # random bs i want
             if player_total == 7 or player_total == 14:
                 print(
                     f"₍ᐢ.ˬ.⑅ᐢ₎: {nplayer.name} got {player_total}. Lucky number! Maybe the lottery is winking at you.")
 
-            # proper gameplay
             player_total = nplayer._hand.total()
             if nplayer._hand.is_bj():
                 winnings = nplayer._betinround * 2.5
