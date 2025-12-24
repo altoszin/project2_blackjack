@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/8a893d62-ebdd-4d6d-8cfd-c8069eb3619c
 # 🃏 WHAT IS TWENTY-ONE?
 **Twenty-One** is a typical blackjack game project I've worked on for first year college tasks, in which I added a personal sense of personality and thrill! I built upon this program using Visual Studio Code to accomodate the requirements my college expected of me.  
   
@@ -163,8 +161,8 @@ The biggest issue with the final prototype I made was that the computer response
 5. Enjoy the game.
   
 ## VIDEO
-https://github.com/user-attachments/assets/2241da12-d87f-4399-89b6-9e985ab6cb4b
-
+https://github.com/user-attachments/assets/693ef28b-b08c-4c86-a07e-7ba61a4cb95b
+  
 ## CREDITS
 ### ╭・[cute symbols for crds](https://docs.google.com/document/d/173Z3L5sbzuvLIa4CWRvOmx20Hy00zPYhfBxm0DVxBTA/edit?tab=t.0)
 • This docs was a great help in designing the role-play setting giving a sense of realism to my work!
